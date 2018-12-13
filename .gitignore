@@ -24,4 +24,4 @@
 /nbdist/
 /.nb-gradle/
 
-/src/main/resources/google/advaita.json
+credentials.json
